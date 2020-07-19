@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="Home">#00BCD4</color>
+    <color name="Messages">#8BC34A</color>
+    <color name="Images">#FFC107</color>
+    <color name="Videos">#FF5722</color>
+</resources>
